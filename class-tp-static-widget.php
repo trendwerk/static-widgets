@@ -2,6 +2,13 @@
 /**
  * Plugin Name: Static widgets
  * Description: Allow widgets to be called statically in templates.
+ *
+ * Plugin URI: https://github.com/trendwerk/static-widgets
+ * 
+ * Author: Trendwerk
+ * Author URI: https://github.com/trendwerk
+ * 
+ * Version: 1.0.0
  */
 
 /**
